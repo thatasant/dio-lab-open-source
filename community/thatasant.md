@@ -1,6 +1,5 @@
 <h1> Thalita Sant</h1>
 
-## Bem-vindo ao meu GitHub
 
 <img align="right" alt="Woman engineer vector created by storyset - www.istockphoto.com" height="310" src="https://media.istockphoto.com/id/1431864690/pt/vetorial/a-woman-working-at-construction-sites-using-laptop-computer-for-browsing-web-sites.jpg?s=612x612&w=0&k=20&c=E-2L03M-RVeKhUZTnnEvfCgE_gcxLvWkGamBseimrkE=">
 
@@ -14,7 +13,7 @@ Embora ainda seja iniciante, tenho convicção que o bootcamp é um passo import
 <h3 align="left">Estou estudando</h3>
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60" height="60" /> 
 
 ***
 <h3 align="left">Conecte-se comigo</h3>
